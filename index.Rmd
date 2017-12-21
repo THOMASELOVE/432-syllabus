@@ -17,30 +17,15 @@ knitr::include_graphics("figures/cwru-stacked-logo-blue-no-tag.jpg")
 
 # Key Information {-}
 
-This is the Spring 2018 syllabus page for PQHS / CRSP / MPHP 432: Data Science for Biological, Medical and Health Research II, taught by Professor Thomas Love. The course is given on Tuesdays and Thursdays from 1:00 to 2:15 PM, in a location to be announced.
+This is the Spring 2018 syllabus page for PQHS / CRSP / MPHP 432: Data Science for Biological, Medical and Health Research II, taught by Professor Thomas E. Love. The course is given on Tuesdays and Thursdays from 1:00 to 2:15 PM, in a location to be announced.
 
 ## Course Home Page {-}
 
 The course home page, with links to everything else you'll need, is at https://github.com/THOMASELOVE/432-2018. 
 
-## Dr. Love {-}
-
-```{r Lovepic-fig, echo = FALSE, out.width = '33%'}
-knitr::include_graphics("figures/Love-picB.jpg")
-```
-
-Thomas E. Love, Ph.D.
-
-- Professor of Medicine, Population and Quantitative Health Sciences, [CWRU](http://case.edu/)
-- Director of [Biostatistics and Evaluation](http://chrp.org/biostatistics-evaluation/), [Center for Health Care Research & Policy](http://chrp.org/), [MetroHealth Medical Center](https://www.metrohealth.org/research)
-- [Chief Data Scientist](http://www.betterhealthpartnership.org/data_center/), [Better Health Partnership](http://betterhealthpartnership.org/)
-- Track Lead for Health Care Analytics, MS in Biostatistics, [Department of Population and Quantitative Health Sciences](http://epbiwww.case.edu/), CWRU
-- Fellow, [American Statistical Association](http://www.amstat.org/)
-
 ## Getting Help! {-}
 
-To get help for anything related to the course, email the Teaching Assistants and Dr. Love at `431-help@case.edu`.
+To get help for anything related to the course, email the Teaching Assistants and Dr. Love at `431 dot help at case dot edu`.
 
-- Dr. Love is available on Tuesdays and Thursdays at CWRU, by appointment. To make an appointment, email him at `thomas.love@case.edu`. His office is Wood WG-82 L.
-    + If you have any special concerns about the course, need special accommodations or any other issues for Dr. Love, please email or speak with him before or after class.
-    
+- Dr. Love is available on Tuesdays and Thursdays at CWRU, by appointment. To make an appointment, email him directly at `thomas dot love at case dot edu`. His office is Wood WG-82 L.
+- If you have any special concerns about the course, need special accommodations or any other issues for Dr. Love, please email him, or speak with him before or after class.

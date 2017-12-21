@@ -27,9 +27,9 @@ Dr. Love is generally available before and after class, otherwise by appointment
 
 ## Web 
 
-- Dr. Love's [GitHub pages website](https://thomaselove.github.io/). 
-    + His GitHub name is [THOMASELOVE](https://github.com/thomaselove).
-- His Twitter handle is [@ThomasELove](https://twitter.com/ThomasELove).
+- [Web site for this course](https://github.com/thomaselove/432-2018)
+- Dr. Love's GitHub name is [THOMASELOVE](https://github.com/thomaselove).
+- His Twitter handle is @[ThomasELove](https://twitter.com/ThomasELove)
 
 ## A More Complete Biography
 
