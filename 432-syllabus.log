@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  20 DEC 2017 22:38
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  20 DEC 2017 22:58
 entering extended mode
 **432-syllabus.tex
 (C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.tex
@@ -718,34 +718,54 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip52
 \thanksmargin=\skip53
 \droptitle=\skip54
-) (C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 88.
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2009/07/02 v2.20.1
+\thm@style=\toks26
+\thm@bodyfont=\toks27
+\thm@headfont=\toks28
+\thm@notefont=\toks29
+\thm@headpunct=\toks30
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks31
+)
+\c@theorem=\count125
+\c@lemma=\count126
+\c@definition=\count127
+\c@corollary=\count128
+\c@proposition=\count129
+\c@example=\count130
+\c@exercise=\count131
+(C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 102.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 102.
+
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 88.
-LaTeX Font Info:    ... okay on input line 88.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 88.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 102.
+LaTeX Font Info:    ... okay on input line 102.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 102.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 88.
+LaTeX Info: Redefining \microtypecontext on input line 102.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -794,33 +814,33 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring OFF on input line 88.
+Package hyperref Info: Link coloring OFF on input line 102.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count125
+\c@section@level=\count132
 )
-LaTeX Info: Redefining \ref on input line 88.
-LaTeX Info: Redefining \pageref on input line 88.
-LaTeX Info: Redefining \nameref on input line 88.
+LaTeX Info: Redefining \ref on input line 102.
+LaTeX Info: Redefining \pageref on input line 102.
+LaTeX Info: Redefining \nameref on input line 102.
 (C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.out) (C:\Users\Thom
 as\Dropbox\2018-432\432-syllabus\432-syllabus.out)
 \@outlinefile=\write3
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count126
+\scratchcounter=\count133
 \scratchdimen=\dimen141
 \scratchbox=\box33
-\nofMPsegments=\count127
-\nofMParguments=\count128
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count129
+\nofMPsegments=\count134
+\nofMParguments=\count135
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count136
 \MPscratchDim=\dimen142
-\MPnumerator=\count130
-\makeMPintoPDFobject=\count131
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count137
+\makeMPintoPDFobject=\count138
+\everyMPtoPDFconversion=\toks33
 ) [1
 
 
@@ -862,46 +882,49 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ))
 \tf@toc=\write4
-<figures/cwru-stacked-logo-blue-no-tag.jpg, id=35, 253.9086pt x 189.5883pt>
+<figures/cwru-stacked-logo-blue-no-tag.jpg, id=50, 253.9086pt x 189.5883pt>
 File: figures/cwru-stacked-logo-blue-no-tag.jpg Graphic file (type jpg)
 <use figures/cwru-stacked-logo-blue-no-tag.jpg>
 Package pdftex.def Info: figures/cwru-stacked-logo-blue-no-tag.jpg used on inpu
-t line 95.
+t line 109.
 (pdftex.def)             Requested size: 93.94858pt x 70.14946pt.
 [3 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/cwru-stacked-logo-blu
 e-no-tag.jpg>] [4
 
-] <figures/Love-picB.jpg, id=49, 92.91856pt x 123.89143pt>
+] <figures/Love-picB.jpg, id=64, 92.91856pt x 123.89143pt>
 File: figures/Love-picB.jpg Graphic file (type jpg)
 <use figures/Love-picB.jpg>
-Package pdftex.def Info: figures/Love-picB.jpg used on input line 114.
+Package pdftex.def Info: figures/Love-picB.jpg used on input line 128.
 (pdftex.def)             Requested size: 92.91832pt x 123.89111pt.
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 121.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 135.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 146.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 160.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [5 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Love-picB.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
-[6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
+) [5 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Love-picB.jpg>] [6]
+Chapter 1.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
+[7
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
 (C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
 Package rerunfilecheck Info: File `432-syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: 5F92BDEC2542A74A928CA1441846B13C;485.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
+(rerunfilecheck)             Checksum: C288F2F3C3FBFAA653C7D4335487F4AC;929.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
  ) 
 Here is how much of TeX's memory you used:
- 12243 strings out of 493705
- 177943 string characters out of 3142148
- 273393 words of memory out of 3000000
- 15358 multiletter control sequences out of 15000+200000
- 49895 words of font info for 56 fonts, out of 3000000 for 9000
+ 12389 strings out of 493705
+ 179651 string characters out of 3142148
+ 276545 words of memory out of 3000000
+ 15475 multiletter control sequences out of 15000+200000
+ 58080 words of font info for 68 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  32i,4n,35p,237b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
@@ -909,12 +932,13 @@ iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/lm/lmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
 blic/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr1
-7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 432-syllabus.pdf (6 pages, 657367 bytes).
+7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
+Output written on 432-syllabus.pdf (7 pages, 685824 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 12 named destinations out of 1000 (max. 500000)
- 10283 words of extra memory for PDF output out of 12000 (max. 10000000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 12355 words of extra memory for PDF output out of 14400 (max. 10000000)
 
