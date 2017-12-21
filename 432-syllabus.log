@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  20 DEC 2017 22:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  21 DEC 2017 09:21
 entering extended mode
 **432-syllabus.tex
 (C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.tex
@@ -882,7 +882,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ))
 \tf@toc=\write4
-<figures/cwru-stacked-logo-blue-no-tag.jpg, id=50, 253.9086pt x 189.5883pt>
+<figures/cwru-stacked-logo-blue-no-tag.jpg, id=115, 253.9086pt x 189.5883pt>
 File: figures/cwru-stacked-logo-blue-no-tag.jpg Graphic file (type jpg)
 <use figures/cwru-stacked-logo-blue-no-tag.jpg>
 Package pdftex.def Info: figures/cwru-stacked-logo-blue-no-tag.jpg used on inpu
@@ -891,7 +891,7 @@ t line 109.
 [3 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/cwru-stacked-logo-blu
 e-no-tag.jpg>] [4
 
-] <figures/Love-picB.jpg, id=64, 92.91856pt x 123.89143pt>
+] <figures/Love-picB.jpg, id=129, 92.91856pt x 123.89143pt>
 File: figures/Love-picB.jpg Graphic file (type jpg)
 <use figures/Love-picB.jpg>
 Package pdftex.def Info: figures/Love-picB.jpg used on input line 128.
@@ -907,38 +907,107 @@ LaTeX Font Info:    Try loading font information for T1+lmtt on input line 160.
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [5 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Love-picB.jpg>] [6]
 Chapter 1.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
 [7
 
+] [8
+
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
+Chapter 2.
+File: figures/Love-picB.jpg Graphic file (type jpg)
+<use figures/Love-picB.jpg>
+Package pdftex.def Info: figures/Love-picB.jpg used on input line 235.
+(pdftex.def)             Requested size: 92.91832pt x 123.89111pt.
+[9] [10]
+Chapter 3.
+<figures/Claudia.png, id=195, 752.8125pt x 1339.0025pt>
+File: figures/Claudia.png Graphic file (type png)
+<use figures/Claudia.png>
+Package pdftex.def Info: figures/Claudia.png used on input line 409.
+(pdftex.def)             Requested size: 155.01677pt x 275.72318pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[11
+
+] <figures/Omar.jpg, id=200, 2409.0pt x 3011.25pt>
+File: figures/Omar.jpg Graphic file (type jpg)
+<use figures/Omar.jpg>
+Package pdftex.def Info: figures/Omar.jpg used on input line 425.
+(pdftex.def)             Requested size: 155.00989pt x 193.76236pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[12 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Claudia.png>] <figur
+es/Rosie.jpg, id=205, 326.72063pt x 493.0922pt>
+File: figures/Rosie.jpg Graphic file (type jpg)
+<use figures/Rosie.jpg>
+Package pdftex.def Info: figures/Rosie.jpg used on input line 441.
+(pdftex.def)             Requested size: 155.01941pt x 233.95789pt.
+[13 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Omar.jpg> <C:/Users/
+Thomas/Dropbox/2018-432/432-syllabus/figures/Rosie.jpg>] <figures/Bob.jpg, id=2
+11, 237.88875pt x 357.335pt>
+File: figures/Bob.jpg Graphic file (type jpg)
+<use figures/Bob.jpg>
+Package pdftex.def Info: figures/Bob.jpg used on input line 457.
+(pdftex.def)             Requested size: 155.02513pt x 232.86476pt.
+[14 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Bob.jpg>]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 509--511
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--529
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 534--536
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 538--540
+
+ []
+
+[15
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 558.
+[16]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 558.
 (C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 558.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 558.
 Package rerunfilecheck Info: File `432-syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: C288F2F3C3FBFAA653C7D4335487F4AC;929.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
+(rerunfilecheck)             Checksum: 7AAD550C4347CEE1F2973DD04CA67991;2643.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 558.
  ) 
 Here is how much of TeX's memory you used:
- 12389 strings out of 493705
- 179651 string characters out of 3142148
- 276545 words of memory out of 3000000
- 15475 multiletter control sequences out of 15000+200000
- 58080 words of font info for 68 fonts, out of 3000000 for 9000
+ 12500 strings out of 493705
+ 181015 string characters out of 3142148
+ 280092 words of memory out of 3000000
+ 15518 multiletter control sequences out of 15000+200000
+ 59325 words of font info for 83 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 32i,4n,35p,237b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
-ts/type1/public/lm/lmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pu
-blic/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr1
-7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri12.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmro10.pfb><C:/Program Files (x86)/MiK
-TeX 2.9/fonts/type1/public/lm/lmtt10.pfb>
-Output written on 432-syllabus.pdf (7 pages, 685824 bytes).
+ 32i,5n,35p,245b,438s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x86)/
+MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/MiKTeX 2.9/font
+s/enc/dvips/lm/lm-ts1.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/lm/lmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmri12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/lm/lmro10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.
+pfb>
+Output written on 432-syllabus.pdf (16 pages, 7430017 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 12355 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 291 PDF objects out of 1000 (max. 8388607)
+ 54 named destinations out of 1000 (max. 500000)
+ 12479 words of extra memory for PDF output out of 14400 (max. 10000000)
 
