@@ -42,4 +42,10 @@ Bob Winkelman is a third year student in the MD program at the CWRU School of Me
 
 ## Zuxi (Terry) Cui
 
-Terry Cui is a PhD student in the Department of Population and Quantitative Health Sciences.
+```{r Terry-fig, echo = FALSE, out.width = '33%'}
+knitr::include_graphics("figures/Terry.jpg")
+```
+
+Terry Cui is a second-year PhD student in the Department of Population and Quantitative Health Sciences. He did undergraduate work in Pharmaceutical Engineering and holds a MS in Biostatistics from the University of Arizona. His research interests include genetic epidemiology, clinical data analysis, and missing data. His current project is a genome-wide association study of prostate cancer among Caucasians. He believes aggregate little discoveries in Epidemiology and Biostatistics can eventually overcome most diseases.
+
+

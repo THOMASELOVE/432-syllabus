@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  21 DEC 2017 09:33
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  21 DEC 2017 22:07
 entering extended mode
 **432-syllabus.tex
 (C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.tex
@@ -947,46 +947,55 @@ File: figures/Bob.jpg Graphic file (type jpg)
 <use figures/Bob.jpg>
 Package pdftex.def Info: figures/Bob.jpg used on input line 419.
 (pdftex.def)             Requested size: 155.02513pt x 232.86476pt.
-[14 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Bob.jpg>]
-Chapter 4.
+<figures/Terry.jpg, id=197, 805.0075pt x 1127.21124pt>
+File: figures/Terry.jpg Graphic file (type jpg)
+<use figures/Terry.jpg>
+Package pdftex.def Info: figures/Terry.jpg used on input line 433.
+(pdftex.def)             Requested size: 155.01663pt x 217.06194pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--473
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 486--491
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 496--498
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 500--502
-
- []
-
-[15
+[14 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Bob.jpg>] [15 <C:/Us
+ers/Thomas/Dropbox/2018-432/432-syllabus/figures/Terry.jpg>] [16
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 520.
-[16]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 520.
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 494--499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--506
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--510
+
+ []
+
+[17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 528.
+[18]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 528.
 (C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 520.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 520.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 528.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 528.
 Package rerunfilecheck Info: File `432-syllabus.out' has not changed.
 (rerunfilecheck)             Checksum: BDE33AA1D89A58FEFC0DFFADA2D2AB0B;2544.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 520.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 528.
  ) 
 Here is how much of TeX's memory you used:
- 12497 strings out of 493705
- 180984 string characters out of 3142148
- 279061 words of memory out of 3000000
- 15516 multiletter control sequences out of 15000+200000
+ 12503 strings out of 493705
+ 181089 string characters out of 3142148
+ 280061 words of memory out of 3000000
+ 15520 multiletter control sequences out of 15000+200000
  59325 words of font info for 83 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  32i,5n,35p,245b,423s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1002,9 +1011,9 @@ x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files (x86)/MiKTeX
 ype1/public/lm/lmri12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
 /lm/lmro10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.
 pfb>
-Output written on 432-syllabus.pdf (16 pages, 7426553 bytes).
+Output written on 432-syllabus.pdf (18 pages, 7522632 bytes).
 PDF statistics:
- 276 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
- 12471 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 286 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
+ 12476 words of extra memory for PDF output out of 14400 (max. 10000000)
 
