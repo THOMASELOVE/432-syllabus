@@ -17,7 +17,7 @@ knitr::include_graphics("figures/cwru-stacked-logo-blue-no-tag.jpg")
 
 # Key Information {-}
 
-This is the Spring 2018 syllabus page for PQHS / CRSP / MPHP 432: Data Science for Biological, Medical and Health Research II, taught by Professor Thomas E. Love. The course is given on Tuesdays and Thursdays from 1:00 to 2:15 PM, in a location to be announced.
+This is the Spring 2018 syllabus page for PQHS / CRSP / MPHP 432: Data Science for Biological, Medical and Health Research II, taught by Professor Thomas E. Love. The course is given on Tuesdays and Thursdays from 1:00 to 2:15 PM, in Room E321-323 in the School of Medicine.
 
 ## Course Home Page {-}
 

@@ -8,6 +8,15 @@ This is a good course for people who want to learn how to use the R language to 
 
 Taking 432 without 431 is not recommended. The pace can be brisk at times, but all CWRU students who feel up to it are welcome, in any field of study. 
 
+The main things students need for 432 are:
+
+- tools: substantive knowledge of the use of R, R Studio and R Markdown to produce code which will ingest, visualize, explore, analyze and model data, then communicate the results
+- statistical methodology: substantiave understanding of statistical inference in the one-, two- and multi-sample cases and the fundamentals of linear regression models, including the building of multiple linear regressions, and their evaluation through diagnostic plots, stepwise model selection, assessment of uncertainty via confidence and prediction intervals, and basic in-sample and out-of sample validation summaries
+- data to study related to biological, health and/or medical phenomena, and 
+- an interest in studying data closely and presenting rigorous analyses effectively
+
+Some of these topics are reviewed in early 432 sessions.
+
 ## Everything is on the Web
 
 https://github.com/THOMASELOVE/432-2018 is the place to go for everything related to this course. Please visit any time you need something. I update the web site frequently. You'll find links there related to:
