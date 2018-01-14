@@ -1,0 +1,51 @@
+# Deliverables and Grading
+
+## Grading
+
+The final course grade is weighted as follows:
+
+- 15% Class Participation / Group Work
+- 25% Eight Homework Assignments
+- 25% Two Quizzes
+- 35% Two Projects, including the Final Portfolio Presentation
+
+A cut point to discriminate A vs. B will be set in the range of 85% to 90% at the end of the term. 
+
+- A final average of 90% or higher will definitely receive an A. 
+- An average of 70% or higher is required to receive a B.
+
+## Homework Assignments
+
+There are a total of 8 regular homework assignments this semester. Details on these assignments [are found here](https://github.com/THOMASELOVE/432-2018/tree/master/assignments).
+
+Homework | Material Covered in the Assignment
+:-------: | :----------: | ----------------------------------------------------------
+1 | Building Table 1, Linear Regression
+2 | Linear Regression, ANOVA
+3 | Linear Regression
+4 | Logistic Regression
+5 | Logistic Regression
+6 | Generalized Linear Models 
+7 | Cluster Analysis, Generalized Linear Models 
+8 | Survival Analysis (Cox Regression Models)
+
+
+## Participation in the Course
+
+Students are required to **participate** actively in the course, including meaningful contributions in group work, in-class participation, emails to 431-help, visits to TA, etc. 
+
+- We're more concerned about the breadth of your participation rather than just its quantity. 
+- Most students score between 80% and 100% on this element.
+
+## Quizzes
+
+Students are required to complete two **quizzes**, one in early March, and one in mid-April. The [details on the Quizzes are found here](https://github.com/THOMASELOVE/432-2018/tree/master/quizzes).
+
+
+## Project Assignments
+
+Students are required to complete two **project** assignments, one completed right after Spring Break in mid-March, and the other completed at the end of the term. [Details on the project assignments are found here](https://github.com/THOMASELOVE/432-2018/tree/master/projects).
+
+## Timing - Check the online Schedule
+
+The [course schedule](https://github.com/THOMASELOVE/432-2018/blob/master/SCHEDULE.md) is the most up-to-date resource for all deadlines in the course.

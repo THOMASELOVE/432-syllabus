@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  5 JAN 2018 08:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.16)  14 JAN 2018 11:58
 entering extended mode
 **432-syllabus.tex
 (C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.tex
@@ -882,7 +882,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ))
 \tf@toc=\write4
-<figures/cwru-stacked-logo-blue-no-tag.jpg, id=110, 253.9086pt x 189.5883pt>
+<figures/cwru-stacked-logo-blue-no-tag.jpg, id=150, 253.9086pt x 189.5883pt>
 File: figures/cwru-stacked-logo-blue-no-tag.jpg Graphic file (type jpg)
 <use figures/cwru-stacked-logo-blue-no-tag.jpg>
 Package pdftex.def Info: figures/cwru-stacked-logo-blue-no-tag.jpg used on inpu
@@ -906,54 +906,54 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ]
 Chapter 1.
 
-Underfull \vbox (badness 1205) has occurred while \output is active []
+Underfull \vbox (badness 3780) has occurred while \output is active []
 
 [7] [8]
 Chapter 2.
-<figures/Love-picB.jpg, id=147, 92.91856pt x 123.89143pt>
+<figures/Love-picB.jpg, id=194, 92.91856pt x 123.89143pt>
 File: figures/Love-picB.jpg Graphic file (type jpg)
 <use figures/Love-picB.jpg>
-Package pdftex.def Info: figures/Love-picB.jpg used on input line 227.
+Package pdftex.def Info: figures/Love-picB.jpg used on input line 261.
 (pdftex.def)             Requested size: 92.91832pt x 123.89111pt.
 [9
 
  <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Love-picB.jpg>] [10]
 Chapter 3.
-<figures/Claudia.png, id=183, 752.8125pt x 1339.0025pt>
+<figures/Claudia.png, id=230, 752.8125pt x 1339.0025pt>
 File: figures/Claudia.png Graphic file (type png)
 <use figures/Claudia.png>
-Package pdftex.def Info: figures/Claudia.png used on input line 403.
+Package pdftex.def Info: figures/Claudia.png used on input line 437.
 (pdftex.def)             Requested size: 155.01677pt x 275.72318pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [11
 
-] <figures/Omar.jpg, id=188, 2409.0pt x 3011.25pt>
+] <figures/Omar.jpg, id=235, 2409.0pt x 3011.25pt>
 File: figures/Omar.jpg Graphic file (type jpg)
 <use figures/Omar.jpg>
-Package pdftex.def Info: figures/Omar.jpg used on input line 419.
+Package pdftex.def Info: figures/Omar.jpg used on input line 453.
 (pdftex.def)             Requested size: 155.00989pt x 193.76236pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [12 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Claudia.png>] <figur
-es/Rosie.jpg, id=193, 326.72063pt x 493.0922pt>
+es/Rosie.jpg, id=240, 326.72063pt x 493.0922pt>
 File: figures/Rosie.jpg Graphic file (type jpg)
 <use figures/Rosie.jpg>
-Package pdftex.def Info: figures/Rosie.jpg used on input line 435.
+Package pdftex.def Info: figures/Rosie.jpg used on input line 469.
 (pdftex.def)             Requested size: 155.01941pt x 233.95789pt.
 [13 <C:/Users/Thomas/Dropbox/2018-432/432-syllabus/figures/Omar.jpg> <C:/Users/
-Thomas/Dropbox/2018-432/432-syllabus/figures/Rosie.jpg>] <figures/Bob.jpg, id=1
-99, 237.88875pt x 357.335pt>
+Thomas/Dropbox/2018-432/432-syllabus/figures/Rosie.jpg>] <figures/Bob.jpg, id=2
+46, 237.88875pt x 357.335pt>
 File: figures/Bob.jpg Graphic file (type jpg)
 <use figures/Bob.jpg>
-Package pdftex.def Info: figures/Bob.jpg used on input line 451.
+Package pdftex.def Info: figures/Bob.jpg used on input line 485.
 (pdftex.def)             Requested size: 155.02513pt x 232.86476pt.
-<figures/Terry.jpg, id=200, 805.0075pt x 1127.21124pt>
+<figures/Terry.jpg, id=247, 805.0075pt x 1127.21124pt>
 File: figures/Terry.jpg Graphic file (type jpg)
 <use figures/Terry.jpg>
-Package pdftex.def Info: figures/Terry.jpg used on input line 465.
+Package pdftex.def Info: figures/Terry.jpg used on input line 499.
 (pdftex.def)             Requested size: 155.01663pt x 217.06194pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -963,35 +963,39 @@ ers/Thomas/Dropbox/2018-432/432-syllabus/figures/Terry.jpg>] [16
 
 ]
 Chapter 4.
+[17] [18]
+Chapter 5.
 
-Underfull \hbox (badness 10000) in paragraph at lines 535--537
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 539--541
+Underfull \hbox (badness 10000) in paragraph at lines 659--661
 
  []
 
-[17]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 567.
-[18]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 567.
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--665
+
+ []
+
+[19
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 691.
+[20]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 691.
 (C:\Users\Thomas\Dropbox\2018-432\432-syllabus\432-syllabus.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 567.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 567.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 691.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 691.
 Package rerunfilecheck Info: File `432-syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: BDE33AA1D89A58FEFC0DFFADA2D2AB0B;2544.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 567.
+(rerunfilecheck)             Checksum: 9D9A404790652B678D36DE440BDD0C47;3841.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 691.
  ) 
 Here is how much of TeX's memory you used:
- 12514 strings out of 493705
- 181198 string characters out of 3142148
- 278061 words of memory out of 3000000
- 15520 multiletter control sequences out of 15000+200000
- 59704 words of font info for 87 fonts, out of 3000000 for 9000
+ 12552 strings out of 493705
+ 181674 string characters out of 3142148
+ 279491 words of memory out of 3000000
+ 15537 multiletter control sequences out of 15000+200000
+ 59870 words of font info for 89 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 32i,5n,35p,245b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 32i,5n,35p,289b,468s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x86)/
 MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/MiKTeX 2.9/font
@@ -1004,9 +1008,9 @@ x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr17.pfb><C:/Program Files (x86)/MiKTeX
 ype1/public/lm/lmri12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
 /lm/lmro10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmtt10.
 pfb>
-Output written on 432-syllabus.pdf (18 pages, 7525389 bytes).
+Output written on 432-syllabus.pdf (20 pages, 7540270 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 12476 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 360 PDF objects out of 1000 (max. 8388607)
+ 75 named destinations out of 1000 (max. 500000)
+ 12540 words of extra memory for PDF output out of 14400 (max. 10000000)
 

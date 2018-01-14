@@ -66,8 +66,9 @@
 <li class="chapter" data-level="" data-path="index.html"><a href="index.html#getting-help"><i class="fa fa-check"></i>Getting Help!</a></li>
 </ul></li>
 <li class="chapter" data-level="1" data-path="course-description.html"><a href="course-description.html"><i class="fa fa-check"></i><b>1</b> Course Description</a><ul>
-<li class="chapter" data-level="1.1" data-path="course-description.html"><a href="course-description.html#prerequisites"><i class="fa fa-check"></i><b>1.1</b> Prerequisites</a></li>
-<li class="chapter" data-level="1.2" data-path="course-description.html"><a href="course-description.html#everything-is-on-the-web"><i class="fa fa-check"></i><b>1.2</b> Everything is on the Web</a></li>
+<li class="chapter" data-level="1.1" data-path="course-description.html"><a href="course-description.html#general-approach-topics"><i class="fa fa-check"></i><b>1.1</b> General Approach / Topics</a></li>
+<li class="chapter" data-level="1.2" data-path="course-description.html"><a href="course-description.html#prerequisites"><i class="fa fa-check"></i><b>1.2</b> Prerequisites</a></li>
+<li class="chapter" data-level="1.3" data-path="course-description.html"><a href="course-description.html#everything-is-on-the-web"><i class="fa fa-check"></i><b>1.3</b> Everything is on the Web</a></li>
 </ul></li>
 <li class="chapter" data-level="2" data-path="dr-love.html"><a href="dr-love.html"><i class="fa fa-check"></i><b>2</b> Dr. Love</a><ul>
 <li class="chapter" data-level="2.1" data-path="dr-love.html"><a href="dr-love.html#email"><i class="fa fa-check"></i><b>2.1</b> Email</a></li>
@@ -83,7 +84,15 @@
 <li class="chapter" data-level="3.5" data-path="teaching-assistants.html"><a href="teaching-assistants.html#bob-winkelman"><i class="fa fa-check"></i><b>3.5</b> Bob Winkelman</a></li>
 <li class="chapter" data-level="3.6" data-path="teaching-assistants.html"><a href="teaching-assistants.html#zuxi-terry-cui"><i class="fa fa-check"></i><b>3.6</b> Zuxi (Terry) Cui</a></li>
 </ul></li>
-<li class="chapter" data-level="4" data-path="a-few-writingpresenting-tips.html"><a href="a-few-writingpresenting-tips.html"><i class="fa fa-check"></i><b>4</b> A Few Writing/Presenting Tips</a></li>
+<li class="chapter" data-level="4" data-path="deliverables-and-grading.html"><a href="deliverables-and-grading.html"><i class="fa fa-check"></i><b>4</b> Deliverables and Grading</a><ul>
+<li class="chapter" data-level="4.1" data-path="deliverables-and-grading.html"><a href="deliverables-and-grading.html#grading"><i class="fa fa-check"></i><b>4.1</b> Grading</a></li>
+<li class="chapter" data-level="4.2" data-path="deliverables-and-grading.html"><a href="deliverables-and-grading.html#homework-assignments"><i class="fa fa-check"></i><b>4.2</b> Homework Assignments</a></li>
+<li class="chapter" data-level="4.3" data-path="deliverables-and-grading.html"><a href="deliverables-and-grading.html#participation-in-the-course"><i class="fa fa-check"></i><b>4.3</b> Participation in the Course</a></li>
+<li class="chapter" data-level="4.4" data-path="deliverables-and-grading.html"><a href="deliverables-and-grading.html#quizzes"><i class="fa fa-check"></i><b>4.4</b> Quizzes</a></li>
+<li class="chapter" data-level="4.5" data-path="deliverables-and-grading.html"><a href="deliverables-and-grading.html#project-assignments"><i class="fa fa-check"></i><b>4.5</b> Project Assignments</a></li>
+<li class="chapter" data-level="4.6" data-path="deliverables-and-grading.html"><a href="deliverables-and-grading.html#timing---check-the-online-schedule"><i class="fa fa-check"></i><b>4.6</b> Timing - Check the online Schedule</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="a-few-writingpresenting-tips.html"><a href="a-few-writingpresenting-tips.html"><i class="fa fa-check"></i><b>5</b> A Few Writing/Presenting Tips</a></li>
 </ul>
 
       </nav>
@@ -105,8 +114,21 @@
 <h1><span class="header-section-number">Section 1</span> Course Description</h1>
 <p>PQHS 432 (cross-listed as, for example, CRSP 432 and MPHP 432, and formerly known as EPBI 432) is the second half of a two-semester sequence (with PQHS 431) focused on modern data analysis and advanced statistical modeling, with a practical bent (as little theory as possible), emphasizing the key role of thinking hard, and well, about design and analysis in research. The title listed by the registrar is a little dated - I prefer <em>Data Science for Biological, Medical or Health Research</em>.</p>
 <p>This is a good course for people who want to learn how to use the R language to get information from data, and who want to learn about making comparisons and building models to help make meaningful progress in research, focusing on questions from biology, medicine and public health. We spend time managing and visualizing data, building models and making predictions, and other things thought of as “data science” - in essence, this highly applied course focuses on modern, more than classical, tools for learning from data. The course is taught using the R statistical software and RStudio environments, with the material discussed in 431 assumed in 432. Students learned a lot of R in the 431 course, and that material remains available at <a href="https://github.com/THOMASELOVE/431" class="uri">https://github.com/THOMASELOVE/431</a>. We’ll continue to use R Studio and R Markdown as tools to help make R work better, and perform our research in replicable ways.</p>
+<div id="general-approach-topics" class="section level2">
+<h2><span class="header-section-number">1.1</span> General Approach / Topics</h2>
+<p>The course covers the following general topics, roughly in this order, through early April. Additional topics (for the remainder of April) will be determined later in the semester.</p>
+<ol style="list-style-type: decimal">
+<li>Linear Regression (including weighted and robust approaches, variable selection, dealing with missing data, fitting non-linear relationships through predictor transformation, cross-validation approaches, and multi-factor ANOVA and ANCOVA)</li>
+<li>Logistic Regression (including both models for binary outcomes, and models for proportions, and risk adjustment)</li>
+<li>Generalized Linear Models (including regression models for count data, multi-categorical outcomes)</li>
+<li>The Statistical Crisis in Science</li>
+<li>Cluster Analysis (mostly in the form of Principal Components Analysis)</li>
+<li>Survival Analysis (Kaplan-Meier curves and Cox Regression)</li>
+</ol>
+<p>A more detailed and up-to-date plan is contained on the <a href="https://github.com/THOMASELOVE/432-2018/blob/master/SCHEDULE.md">Schedule page for the course</a>.</p>
+</div>
 <div id="prerequisites" class="section level2">
-<h2><span class="header-section-number">1.1</span> Prerequisites</h2>
+<h2><span class="header-section-number">1.2</span> Prerequisites</h2>
 <p>Taking 432 without 431 is not recommended. The pace can be brisk at times, but all CWRU students who feel up to it are welcome, in any field of study.</p>
 <p>The main things students need for 432 are:</p>
 <ul>
@@ -118,7 +140,7 @@
 <p>Some of these topics are reviewed in early 432 sessions.</p>
 </div>
 <div id="everything-is-on-the-web" class="section level2">
-<h2><span class="header-section-number">1.2</span> Everything is on the Web</h2>
+<h2><span class="header-section-number">1.3</span> Everything is on the Web</h2>
 <p><a href="https://github.com/THOMASELOVE/432-2018" class="uri">https://github.com/THOMASELOVE/432-2018</a> is the place to go for everything related to this course. Please visit any time you need something. I update the web site frequently. You’ll find links there related to:</p>
 <ul>
 <li>Your homework <strong>Assignments</strong></li>
@@ -127,6 +149,7 @@
 <li>instructions and hints related to the <strong>Projects</strong></li>
 <li>various outside <strong>Texts</strong></li>
 <li>a detailed <strong>Schedule</strong> of classes and deadlines</li>
+<li>details on the <strong>Quizzes</strong></li>
 </ul>
 
 </div>
