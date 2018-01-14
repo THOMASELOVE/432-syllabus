@@ -29,13 +29,24 @@ Homework | Material Covered in the Assignment
 7 | Cluster Analysis, Generalized Linear Models 
 8 | Survival Analysis (Cox Regression Models)
 
-
 ## Participation in the Course
 
 Students are required to **participate** actively in the course, including meaningful contributions in group work, in-class participation, emails to 431-help, visits to TA, etc. 
 
 - We're more concerned about the breadth of your participation rather than just its quantity. 
 - Most students score between 80% and 100% on this element.
+
+## Texts and Reading
+
+We'll be reading from two books in the first part of the term. Be sure you have access to them now.
+
+- Jeffrey Leek [How to be a Modern Scientist](https://leanpub.com/modernscientist)
+    - The entire book is about 100 pages. You can read it in 2-3 hours.
+- Garrett Grolemund and Hadley Wickham [R for Data Science](http://r4ds.had.co.nz/) 
+    - I expect that in 431, you read Sections 1-12 and 15 of this text, covering all of Part I (Explore) and most of Part II (Wrangle), but if not, you'll do that by the end of February.
+    - This term, we'll read Part IV (Model) and Part V (Communicate), before the first project is due in March.
+
+Details on when readings are to be complete can be found [in the Schedule](https://github.com/THOMASELOVE/432-2018/blob/master/SCHEDULE.md).
 
 ## Quizzes
 

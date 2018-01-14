@@ -15,7 +15,7 @@ The course covers the following general topics, roughly in this order, through e
 5. Cluster Analysis (mostly in the form of Principal Components Analysis)
 6. Survival Analysis (Kaplan-Meier curves and Cox Regression)
 
-A more detailed and up-to-date plan is contained on the [Schedule page for the course](https://github.com/THOMASELOVE/432-2018/blob/master/SCHEDULE.md).
+A more detailed and up-to-date plan is contained on the [Topics page for the course](https://github.com/THOMASELOVE/432-2018/blob/master/TOPICS.md).
 
 ## Prerequisites
 
