@@ -2,7 +2,7 @@
 
 The teaching assistants for 431 this year are Claudia Cabrera, Omar Alaber, Rosie Conic, Bob Winkelman and Terry Cui. They are the people answering 431-help at case dot edu, and they are the people holding the bulk of our office hours. Most of them has been in your shoes - they've taken the course in the past, and they enjoyed it enough to come back for more. Many have volunteered their precious time and energy to help make the course happen, and we couldn't be more delighted to welcome you to the course.
 
-To contact the TAs, email `431-help at case dot edu`, which is open starting Tuesday January 16.
+To contact the TAs, email `431-help at case dot edu`, which is open all semester.
 
 ## Office Hours for TAs
 
@@ -48,4 +48,11 @@ knitr::include_graphics("figures/Terry.jpg")
 
 Terry Cui is a second-year PhD student in the Department of Population and Quantitative Health Sciences. He did undergraduate work in Pharmaceutical Engineering and holds a MS in Biostatistics from the University of Arizona. His research interests include genetic epidemiology, clinical data analysis, and missing data. His current project is a genome-wide association study of prostate cancer among Caucasians. He believes aggregate little discoveries in Epidemiology and Biostatistics can eventually overcome most diseases.
 
+## Youjun Li
+
+```{r Youjun-fig, echo = FALSE, out.width = '33%'}
+knitr::include_graphics("figures/Youjun.jpg")
+```
+
+Youjun Li is pursuing his PhD in modern biostatistics from the department of Population and Quantitative Health Sciences. He holds an MS in Statistics from CWRU's School of Arts and Science as well as an MS in Economics from University of Freiburg in Germany. His research interests include Bayesian Inference, Machine Learning and longitudinal data analysis.
 
