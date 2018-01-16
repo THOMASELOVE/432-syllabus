@@ -6,7 +6,17 @@ To contact the TAs, email `431-help at case dot edu`, which is open all semester
 
 ## Office Hours for TAs
 
-Teaching Assistant Office Hours are held in WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places if you need help. Office hours will begin in the second week of classes, and a full schedule will be announced before that date. 
+Office hours will begin on January 23, and continue through the semester. Teaching Assistant Office Hours are (mostly) held in WG-56 (Computing Lab) or WG-67 (Student Lounge) on the ground floor of the Wood building, so be sure to look in both places if you need help. 
+All of these locations are a few steps from each other, on the ground floor of the Wood Building in the School of Medicine. The schedule is as follows:
+
+Day | Time | Location
+--------: | :----------------: | -------------------------------------
+Tuesdays  | 11:45am to 12:45pm | Wood **WG-82C**
+Tuesdays  | 2:30pm to 4:30pm | Either **WG-56** (Computing Lab) or **WG-67** (Student Lounge)
+Wednesdays | Noon to 12:50pm | Either **WG-56** (Computing Lab) or **WG-67** (Student Lounge)
+Thursdays | 11:45am to 12:45pm | Either **WG-56** (Computing Lab) or **WG-67** (Student Lounge)
+Thursdays  | 2:30pm to 4:30pm | Either **WG-56** (Computing Lab) or **WG-67** (Student Lounge)
+Fridays | 12:15pm to 1:00pm | Either **WG-56** (Computing Lab) or **WG-67** (Student Lounge)
 
 ## Claudia Cabrera
 

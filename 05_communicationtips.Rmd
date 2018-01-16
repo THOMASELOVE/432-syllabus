@@ -41,3 +41,9 @@
 18. Often the most useful thing you can do in an analysis is to turn a table into a meaningful graph.
 
 19. When in doubt, err on the side of clearer expression. Clear thinking causes and is demonstrated by clear writing.
+
+20. In the words of [Edward Tufte](https://twitter.com/kjspin7/status/886006382993915904), to think clearly, keep asking yourself ...
+
+```{r Tufte_closingfig, echo=FALSE, out.width='85%'}
+knitr::include_graphics("figures/Tuftequote.jpg")
+```
