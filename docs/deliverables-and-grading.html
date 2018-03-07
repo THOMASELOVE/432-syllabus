@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>432 Spring 2018 Syllabus</title>
   <meta name="description" content="Syllabus for Spring 2018 edition of PQHS/CRSP/MPHP 432">
-  <meta name="generator" content="bookdown 0.5 and GitBook 2.6.7">
+  <meta name="generator" content="bookdown 0.7 and GitBook 2.6.7">
 
   <meta property="og:title" content="432 Spring 2018 Syllabus" />
   <meta property="og:type" content="book" />
@@ -119,7 +119,7 @@
 <p>The final course grade is weighted as follows:</p>
 <ul>
 <li>15% Class Participation / Group Work</li>
-<li>25% Eight Homework Assignments</li>
+<li>25% Seven Homework Assignments</li>
 <li>25% Two Quizzes</li>
 <li>35% Two Projects, including the Final Portfolio Presentation</li>
 </ul>
@@ -131,7 +131,7 @@
 </div>
 <div id="homework-assignments" class="section level2">
 <h2><span class="header-section-number">4.2</span> Homework Assignments</h2>
-<p>There are a total of 8 regular homework assignments this semester. Details on these assignments <a href="https://github.com/THOMASELOVE/432-2018/tree/master/assignments">are found here</a>.</p>
+<p>There are a total of 7 regular homework assignments this semester. Details on these assignments <a href="https://github.com/THOMASELOVE/432-2018/tree/master/assignments">are found here</a>.</p>
 <table>
 <thead>
 <tr class="header">
@@ -166,14 +166,11 @@
 </tr>
 <tr class="odd">
 <td align="center">7</td>
-<td align="center">Cluster Analysis, Generalized Linear Models</td>
-</tr>
-<tr class="even">
-<td align="center">8</td>
 <td align="center">Survival Analysis (Cox Regression Models)</td>
 </tr>
 </tbody>
 </table>
+<p>Homework 8 is cancelled.</p>
 </div>
 <div id="participation-in-the-course" class="section level2">
 <h2><span class="header-section-number">4.3</span> Participation in the Course</h2>
@@ -201,7 +198,7 @@
 </div>
 <div id="quizzes" class="section level2">
 <h2><span class="header-section-number">4.5</span> Quizzes</h2>
-<p>Students are required to complete two <strong>quizzes</strong>, one in early March, and one in mid-April. The <a href="https://github.com/THOMASELOVE/432-2018/tree/master/quizzes">details on the Quizzes are found here</a>.</p>
+<p>Students are required to complete two <strong>quizzes</strong>, one in early March, and one in late April. The <a href="https://github.com/THOMASELOVE/432-2018/tree/master/quizzes">details on the Quizzes are found here</a>.</p>
 </div>
 <div id="project-assignments" class="section level2">
 <h2><span class="header-section-number">4.6</span> Project Assignments</h2>
@@ -237,10 +234,11 @@ gitbook.start({
 "facebook": true,
 "twitter": true,
 "google": false,
+"linkedin": false,
 "weibo": false,
 "instapper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "weibo", "instapaper"]
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -264,9 +262,11 @@ gitbook.start({
   (function () {
     var script = document.createElement("script");
     script.type = "text/javascript";
-    script.src  = "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML";
-    if (location.protocol !== "file:" && /^https?:/.test(script.src))
-      script.src  = script.src.replace(/^https?:/, '');
+    var src = "";
+    if (src === "" || src === "true") src = "https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:" && /^https?:/.test(src))
+      src = src.replace(/^https?:/, '');
+    script.src = src;
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>

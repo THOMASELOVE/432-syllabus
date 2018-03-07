@@ -5,7 +5,7 @@
 The final course grade is weighted as follows:
 
 - 15% Class Participation / Group Work
-- 25% Eight Homework Assignments
+- 25% Seven Homework Assignments
 - 25% Two Quizzes
 - 35% Two Projects, including the Final Portfolio Presentation
 
@@ -16,7 +16,7 @@ A cut point to discriminate A vs. B will be set in the range of 85% to 90% at th
 
 ## Homework Assignments
 
-There are a total of 8 regular homework assignments this semester. Details on these assignments [are found here](https://github.com/THOMASELOVE/432-2018/tree/master/assignments).
+There are a total of 7 regular homework assignments this semester. Details on these assignments [are found here](https://github.com/THOMASELOVE/432-2018/tree/master/assignments).
 
 Homework | Material Covered in the Assignment
 :-------: | :----------: | ----------------------------------------------------------
@@ -26,8 +26,9 @@ Homework | Material Covered in the Assignment
 4 | Logistic Regression
 5 | Logistic Regression
 6 | Generalized Linear Models 
-7 | Cluster Analysis, Generalized Linear Models 
-8 | Survival Analysis (Cox Regression Models)
+7 | Survival Analysis (Cox Regression Models)
+
+Homework 8 is cancelled.
 
 ## Participation in the Course
 
@@ -50,7 +51,7 @@ Details on when readings are to be complete can be found [in the Schedule](https
 
 ## Quizzes
 
-Students are required to complete two **quizzes**, one in early March, and one in mid-April. The [details on the Quizzes are found here](https://github.com/THOMASELOVE/432-2018/tree/master/quizzes).
+Students are required to complete two **quizzes**, one in early March, and one in late April. The [details on the Quizzes are found here](https://github.com/THOMASELOVE/432-2018/tree/master/quizzes).
 
 
 ## Project Assignments
